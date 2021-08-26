@@ -1,0 +1,1365 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jun. 20",
+        "Incident": "Minor in consumption/possession of alcohol/CMB",
+        "Location": "1712 Claflin Rd., Manhattan, KS",
+        "Outcome": "Citation issued"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.584212,
+          39.193595
+        ],
+        "type": "Point"
+      },
+      "id": "0069497c3c4e2bf8a18bc5b4fae1d437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jun. 11",
+        "Incident": "Minor driving under the influence of drugs or alcohol",
+        "Location": "Anderson Avenue and Denison Avenue, Manhattan, KS",
+        "Outcome": "Administrative DUI process"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.585432,
+          39.186032
+        ],
+        "type": "Point"
+      },
+      "id": "0d96b165ba95d7f8fb5d4b45e273554c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jun. 28",
+        "Incident": "Theft under $1,500",
+        "Location": "1712 Claflin Rd., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.584359,
+          39.193607
+        ],
+        "type": "Point"
+      },
+      "id": "0f029bb94d2e66c62b8d8a4eb8d1c900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jul. 5",
+        "Incident": "Minor in possession of alcohol",
+        "Location": "1700 Claflin Rd., Manhattan, KS",
+        "Outcome": "Notice to appear issued"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.583475,
+          39.193248
+        ],
+        "type": "Point"
+      },
+      "id": "102e24ca66da681eada3155d00310bd2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jun. 5",
+        "Incident": "Warrant arrest",
+        "Location": "1400 N. Manhattan Ave., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.576313,
+          39.19322
+        ],
+        "type": "Point"
+      },
+      "id": "17551135105e5f67b0ce0757280e4e21"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "May. 22",
+        "Incident": "Driving while license is suspended, revoked or canceled",
+        "Location": "1600 Claflin Rd., Manhattan, KS",
+        "Outcome": "Citation issued"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.58202,
+          39.19439
+        ],
+        "type": "Point"
+      },
+      "id": "1d40045cbdda94573e0bf294dc105b67"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "May. 13",
+        "Incident": "Theft and criminal damage to property under $1,500",
+        "Location": "1401 Claflin Rd., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.578276,
+          39.194756
+        ],
+        "type": "Point"
+      },
+      "id": "1e73e26d943fa982f9dc8d48034163ba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "May. 25",
+        "Incident": "Two vehicle, minor injury accident",
+        "Location": "Kimball Avenue and College Avenue, Manhattan, KS",
+        "Outcome": "Citation issued"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.598173,
+          39.203883
+        ],
+        "type": "Point"
+      },
+      "id": "1ea28dca95d2257f16a184aafa834587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Aug. 15",
+        "Incident": "Driving under influence of drugs or alcohol",
+        "Location": "800 Mid Campus Dr., Manhattan, KS",
+        "Outcome": "Arrest made"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.581539,
+          39.187226
+        ],
+        "type": "Point"
+      },
+      "id": "22e9fdb755a36b4cfde81226ed52895f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jun. 30",
+        "Incident": "Theft under $1,500",
+        "Location": "1212 Mid Campus Dr., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.579142,
+          39.191364
+        ],
+        "type": "Point"
+      },
+      "id": "23f282eb4676bd33a70c5d02747746da"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jun. 25",
+        "Incident": "Criminal damage to property",
+        "Location": "1117 Mid Campus Dr., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.58067,
+          39.190612
+        ],
+        "type": "Point"
+      },
+      "id": "27d629145f3021619f4a1a52cd28fed1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jun. 10",
+        "Incident": "Pedestrian vs. motorcycle injury accident",
+        "Location": "1500 Jarvis Dr., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.588995,
+          39.1946
+        ],
+        "type": "Point"
+      },
+      "id": "2cd603ec59df6c0e0698c94d0f24eecb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Aug. 14",
+        "Incident": "Theft under $1,500",
+        "Location": "1705 Hillcrest Dr., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.592016,
+          39.199815
+        ],
+        "type": "Point"
+      },
+      "id": "3211c67b0b18a5ee3cfad3b75d85fb74"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Aug. 22",
+        "Incident": "Driving while license is suspended, revoked or canceled",
+        "Location": "2000 Kimball Ave., Manhattan, KS",
+        "Outcome": "Notice to appear issued"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.591674,
+          39.204782
+        ],
+        "type": "Point"
+      },
+      "id": "336bcd2afa509028c003a353472034c6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jul. 3",
+        "Incident": "Driving while license is suspended, revoked or canceled",
+        "Location": "800 N. Manhattan Ave., Manhattan, KS",
+        "Outcome": "Notice to appear issued"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.57619,
+          39.187073
+        ],
+        "type": "Point"
+      },
+      "id": "37d2363daf04cd0c80bcba1357f9b41c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Aug. 1",
+        "Incident": "Battery",
+        "Location": "3410 Top Of The World Dr., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.623154,
+          39.229283
+        ],
+        "type": "Point"
+      },
+      "id": "392626deeaa377a94f7247928a91198c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "May. 12",
+        "Incident": "Criminal trespassing",
+        "Location": "1117 Mid Campus Dr., Manhattan, KS",
+        "Outcome": "Arrest made"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.580782,
+          39.190596
+        ],
+        "type": "Point"
+      },
+      "id": "3bccfe869a651dcef280b116ab8d4922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "May. 22",
+        "Incident": "Theft and criminal damage to property under $1,500",
+        "Location": "1603 Hillcrest Dr., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.592554,
+          39.197867
+        ],
+        "type": "Point"
+      },
+      "id": "3e08db6c5723327d1affe25e483220c2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "May. 11",
+        "Incident": "Theft under $1,500",
+        "Location": "1710 Denison Ave., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.584474,
+          39.198398
+        ],
+        "type": "Point"
+      },
+      "id": "413fb03728c39fefe2688b257cc9b14a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Aug. 16",
+        "Incident": "Theft under $1,500",
+        "Location": "1803 Kerr Dr., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.586569,
+          39.198509
+        ],
+        "type": "Point"
+      },
+      "id": "4203ad763fac17783a2077e9f00f6b94"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "May. 23",
+        "Incident": "Driving under influence of drugs or alcohol",
+        "Location": "2600 Kimball Ave., Manhattan, KS",
+        "Outcome": "Arrest made"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.602783,
+          39.204152
+        ],
+        "type": "Point"
+      },
+      "id": "45304bed5af59eb200278b5577b920bb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "May. 29",
+        "Incident": "Driving while license is suspended, revoked or canceled and interference with LEO",
+        "Location": "1337 Anderson Ave., Manhattan, KS",
+        "Outcome": "Citations issued"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.577942,
+          39.185922
+        ],
+        "type": "Point"
+      },
+      "id": "481ee1c107026707145c15b031de77fe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "May. 27",
+        "Incident": "Theft under $1,500",
+        "Location": "1212 Mid Campus Dr., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.579226,
+          39.191367
+        ],
+        "type": "Point"
+      },
+      "id": "52f771ab38095a6628a03f78cfa23f42"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jun. 29",
+        "Incident": "Theft over $1,500",
+        "Location": "1105 Sunset Ave., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.590081,
+          39.191674
+        ],
+        "type": "Point"
+      },
+      "id": "5457801a98f74b3fd2e9254f89eaf65d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jun. 29",
+        "Incident": "Driving while license is suspended, revoked or canceled",
+        "Location": "1100 Bluemont Ave., Manhattan, KS",
+        "Outcome": "Notice to appear issued"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.573393,
+          39.187027
+        ],
+        "type": "Point"
+      },
+      "id": "555b6a811f6578b1ad5314ebbb640cbb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jul. 23",
+        "Incident": "Criminal damage to property over $1,000",
+        "Location": "1717 Claflin Rd., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.584455,
+          39.192565
+        ],
+        "type": "Point"
+      },
+      "id": "5882eb66e6696aa3ab6fc05f69fca6e3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jul. 11",
+        "Incident": "Theft under $1,500",
+        "Location": "2050 Jardine Dr., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.590722,
+          39.197125
+        ],
+        "type": "Point"
+      },
+      "id": "5936308fa1fbbd57908a3e1c11c88099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jun. 3",
+        "Incident": "Aggravated burglary and theft",
+        "Location": "2201 Kimball Ave., Manhattan, KS",
+        "Outcome": "Arrest made"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.59389,
+          39.203013
+        ],
+        "type": "Point"
+      },
+      "id": "5a27f45df6b258bd79023cb8841be819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jul. 10",
+        "Incident": "Criminal damage to property over $1,000",
+        "Location": "1228 N. 17th St., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.583267,
+          39.176904
+        ],
+        "type": "Point"
+      },
+      "id": "5aa272cd761d24d515b45fdaa1597861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "May. 7",
+        "Incident": "Minor in possession of alcohol/CMB",
+        "Location": "1400 N. Manhattan Ave., Manhattan, KS",
+        "Outcome": "Citation issued"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.576314,
+          39.19328
+        ],
+        "type": "Point"
+      },
+      "id": "5b066d66d40cc2f5625311a03db8038f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Aug. 17",
+        "Incident": "Theft under $1,500",
+        "Location": "1301 Claflin Rd., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.577014,
+          39.194824
+        ],
+        "type": "Point"
+      },
+      "id": "6154abeab7638634c6766a961f662d7f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jul. 2",
+        "Incident": "Theft under $1,500 and criminal damage to property under $1,000",
+        "Location": "920 Denison Ave., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.584962,
+          39.188426
+        ],
+        "type": "Point"
+      },
+      "id": "64ae74124ccba1a38e448f4cf9b730b2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jul. 13",
+        "Incident": "Driving while license is suspended, revoked or canceled",
+        "Location": "1600 College Ave., Manhattan, KS",
+        "Outcome": "Notice to appear issued"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.598155,
+          39.196624
+        ],
+        "type": "Point"
+      },
+      "id": "6939d272afced97f37629d476819c831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Aug. 17",
+        "Incident": "Theft under $1,500",
+        "Location": "1955 Kerr Dr., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.588816,
+          39.198666
+        ],
+        "type": "Point"
+      },
+      "id": "6a02c167db32203e1dab9fa04acec436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jul. 10",
+        "Incident": "Criminal damage to property over $1,000",
+        "Location": "1717 Claflin Rd., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.584632,
+          39.192574
+        ],
+        "type": "Point"
+      },
+      "id": "6c933c86777fa5708b8ca41e3c6be89d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jun. 25",
+        "Incident": "Driving while license is suspended, revoked or canceled",
+        "Location": "1100 Claflin Rd., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.572968,
+          39.193302
+        ],
+        "type": "Point"
+      },
+      "id": "74514a166dc402a2c75486e868ff602e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jul. 6",
+        "Incident": "Driving while license is suspended, revoked or canceled",
+        "Location": "North 17th Street and Anderson Avenue, Manhattan, KS",
+        "Outcome": "Arrest made"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.583267,
+          39.176904
+        ],
+        "type": "Point"
+      },
+      "id": "7c1f26310bd97496e99c5b7422df4285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jun. 28",
+        "Incident": "Theft under $1,500 and criminal damage to property under $1,000",
+        "Location": "1705 Hillcrest Dr., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.592157,
+          39.199822
+        ],
+        "type": "Point"
+      },
+      "id": "7c455ec9fb26ae5e97e0b61890e0fd18"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jul. 14",
+        "Incident": "Theft under $1,500 and criminal damage to property under $1,000",
+        "Location": "1700 Hillcrest Dr., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.591801,
+          39.199368
+        ],
+        "type": "Point"
+      },
+      "id": "7dd287af8b038c64120151737788c3d5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "May. 4",
+        "Incident": "Theft under $1,500",
+        "Location": "1930 College Heights Rd., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.590059,
+          39.19003
+        ],
+        "type": "Point"
+      },
+      "id": "7e98031c4a2fce12605d5a4f7c903bd9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "May. 10",
+        "Incident": "Theft under $1,500",
+        "Location": "1831 Olympic St., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.588532,
+          39.200184
+        ],
+        "type": "Point"
+      },
+      "id": "8222747d9cc468b3ba731cd428ec7e65"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Aug. 22",
+        "Incident": "Theft under $1,500",
+        "Location": "1855 Claflin Rd., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.588072,
+          39.192297
+        ],
+        "type": "Point"
+      },
+      "id": "84137d065780bba6b489f03d708784a1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jun. 21",
+        "Incident": "Theft under $1,500",
+        "Location": "1800 Denison Ave., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.584067,
+          39.1993
+        ],
+        "type": "Point"
+      },
+      "id": "84a521e720f530624050989974eb5ca9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "May. 13",
+        "Incident": "Bicycle vs. vehicle hit and run, non-injury accident",
+        "Location": "1300 Campus Creek Rd., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.576377,
+          39.190838
+        ],
+        "type": "Point"
+      },
+      "id": "84b29bff57f2055939783a2546b66835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jul. 13",
+        "Incident": "Possession of a stimulant and outside warrant arrest",
+        "Location": "900 N. Manhattan Ave., Manhattan, KS",
+        "Outcome": "Arrest made"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.576304,
+          39.188013
+        ],
+        "type": "Point"
+      },
+      "id": "8754047898f1ffb6a9bd34fccf533499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Aug. 10",
+        "Incident": "Vehicle burglary under $1,500 and theft",
+        "Location": "1927 Kerr Dr., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.58839,
+          39.198375
+        ],
+        "type": "Point"
+      },
+      "id": "87a88f542a3ec3c78225ce7de9152b39"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jun. 29",
+        "Incident": "Theft under $1,500",
+        "Location": "1800 Denison Ave., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.584067,
+          39.199764
+        ],
+        "type": "Point"
+      },
+      "id": "87ae9e8289b0835a38714bdbab03fe94"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jul. 30",
+        "Incident": "Computer crime",
+        "Location": "Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.571669,
+          39.183608
+        ],
+        "type": "Point"
+      },
+      "id": "8f5f7a4f26ceb0e83e19c44a2a2a2d6d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "May. 13",
+        "Incident": "Theft under $1,500",
+        "Location": "1301 Lovers Ln., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.577245,
+          39.189392
+        ],
+        "type": "Point"
+      },
+      "id": "9722a4dc66f238883a4a268daf3f2b16"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "May. 18",
+        "Incident": "Two vehicle, minor injury accident",
+        "Location": "Denison Avenue and Kimball Avenue, Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.585501,
+          39.204163
+        ],
+        "type": "Point"
+      },
+      "id": "99296136f3f8b3d687f925361a28c661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jun. 30",
+        "Incident": "Theft under $1,500",
+        "Location": "918 N. 17th St., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.582566,
+          39.188187
+        ],
+        "type": "Point"
+      },
+      "id": "995e4b1b2a13e597ca48a2457000ae8b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jun. 21",
+        "Incident": "Theft under $1,500",
+        "Location": "1211 Mid Campus Dr., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.580211,
+          39.191443
+        ],
+        "type": "Point"
+      },
+      "id": "9a287f0a58e85ea6a61440a6899371bf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Aug. 11",
+        "Incident": "Theft under $1,500",
+        "Location": "2004 Tunstall Cir., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.590059,
+          39.197634
+        ],
+        "type": "Point"
+      },
+      "id": "9bc36b05772515e59224f24f9950b342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "May. 6",
+        "Incident": "One vehicle, non-injury accident",
+        "Location": "College Heights and McCollum Street, Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.587848,
+          39.18958
+        ],
+        "type": "Point"
+      },
+      "id": "9d3203012f42a41a7c53630b5e381839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "May. 15",
+        "Incident": "Theft under $1,500",
+        "Location": "1401 Claflin Rd., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.578176,
+          39.194719
+        ],
+        "type": "Point"
+      },
+      "id": "9d763f3ea797f7b76e66b4f47090c592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jul. 27",
+        "Incident": "Possession of marijuana with intent to distribute",
+        "Location": "1600 Claflin Rd., Manhattan, KS",
+        "Outcome": "Arrest made"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.581872,
+          39.194462
+        ],
+        "type": "Point"
+      },
+      "id": "9de91062d09bf33ca270bcd0142175ec"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jun. 22",
+        "Incident": "Theft under $1,500",
+        "Location": "2050 Jardine Dr., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.590622,
+          39.197137
+        ],
+        "type": "Point"
+      },
+      "id": "9f78211036dbfdf810cf5afbd4e24539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Aug. 8",
+        "Incident": "Driving under influence of drugs or alcohol and transporting an open container",
+        "Location": "1200 Vattier St., Manhattan, KS",
+        "Outcome": "Arrest made"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.574981,
+          39.188152
+        ],
+        "type": "Point"
+      },
+      "id": "a36f9c1c87120456ef4fb31a22e958d6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jun. 24",
+        "Incident": "Theft under $1,500",
+        "Location": "1117 Mid Campus Dr., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.580535,
+          39.190594
+        ],
+        "type": "Point"
+      },
+      "id": "a39efee095ac436d5763d66a6373e403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Aug. 20",
+        "Incident": "Minor in consumption of alcohol",
+        "Location": "1400 N. Manhattan Ave., Manhattan, KS",
+        "Outcome": " Notice to appear issued"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.576316,
+          39.193361
+        ],
+        "type": "Point"
+      },
+      "id": "aa0ee811d03e8afeb2ec5790ad7d13b2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Aug. 10",
+        "Incident": "Theft under $1,500",
+        "Location": "1831 Olympic St., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.588582,
+          39.200064
+        ],
+        "type": "Point"
+      },
+      "id": "ad26252368bab5ae20d39eb600747651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jun. 3",
+        "Incident": "Vehicle burglary over $1,500",
+        "Location": "2008 Tunstall Cir., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.590019,
+          39.198052
+        ],
+        "type": "Point"
+      },
+      "id": "b0281c2774dfc9f1d9ccfb4a96451b80"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jul. 2",
+        "Incident": "Theft under $1,500 and criminal damage to property under $1,000",
+        "Location": "1424 Claflin Rd., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.579511,
+          39.195603
+        ],
+        "type": "Point"
+      },
+      "id": "b1a74db0e6deb794708385e7bb1facc8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jun. 4",
+        "Incident": "Non-injury traffic accident",
+        "Location": "1400 Block of Kimball Ave., Manhattan, KS",
+        "Outcome": "Citation issued"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.580162,
+          39.206188
+        ],
+        "type": "Point"
+      },
+      "id": "b39390328ad0445e7de0db90de143245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "May. 14",
+        "Incident": "Theft and criminal damage to property under $1,500",
+        "Location": "1602 Hillcrest Dr., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.591673,
+          39.197793
+        ],
+        "type": "Point"
+      },
+      "id": "b3f661b6b251973ac6193d3302558ac3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Aug. 1",
+        "Incident": "Possession of marijuana and possession of drug paraphernalia",
+        "Location": "1100 Bluemont Ave., Manhattan, KS",
+        "Outcome": "Notice to appear issued"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.573396,
+          39.187068
+        ],
+        "type": "Point"
+      },
+      "id": "b7dcab89175b783d6bc729c66612d398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "May. 17",
+        "Incident": "Two vehicle, non-injury accident",
+        "Location": "Jardine Drive and Roof Drive, Manhattan, KS",
+        "Outcome": "Citation issued"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.587365,
+          39.196935
+        ],
+        "type": "Point"
+      },
+      "id": "c6311ced7cfe319273dc81146089cc99"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Aug. 1",
+        "Incident": "Battery",
+        "Location": "3410 Top Of The World Dr., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.623154,
+          39.229283
+        ],
+        "type": "Point"
+      },
+      "id": "cd1a22e68b3d0603708fac2a46172147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jun. 29",
+        "Incident": "Battery",
+        "Location": "1600 Denison Ave., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.585482,
+          39.197344
+        ],
+        "type": "Point"
+      },
+      "id": "cfe56bb90fd2bfabf8980be2c3c51a91"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Aug. 20",
+        "Incident": "Hit and run (property damage only)",
+        "Location": "1300 Old Claflin Rd., Manhattan, KS",
+        "Outcome": " Notice to appear issued"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.577066,
+          39.193661
+        ],
+        "type": "Point"
+      },
+      "id": "d43cdb9710dc670e372246fa4c8fa8c1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Aug. 13",
+        "Incident": "Theft under $1,500",
+        "Location": "1831 Olympic St., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.588374,
+          39.200144
+        ],
+        "type": "Point"
+      },
+      "id": "d93a3b71e9aaa4a56aa51a865af1fbed"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "May. 14",
+        "Incident": "Theft under $1,500",
+        "Location": "918 N. Manhattan Ave., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.576128,
+          39.188633
+        ],
+        "type": "Point"
+      },
+      "id": "d99f5711af42cd45879802cd06091d61"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jun. 29",
+        "Incident": "Non-injury accident",
+        "Location": "1700 Roof Dr., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.587407,
+          39.198625
+        ],
+        "type": "Point"
+      },
+      "id": "ddd34c79eac4dc3e33d85cc19cf5f0fb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jul. 21",
+        "Incident": "Theft under $1,500",
+        "Location": "2008 Tunstall Cir., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.590019,
+          39.19798
+        ],
+        "type": "Point"
+      },
+      "id": "e61c957c41d0dc67ac4e3a1d06fa9268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "May. 8",
+        "Incident": "Driving under influence of drugs or alcohol",
+        "Location": "1127 Bluemont Ave., Manhattan, KS",
+        "Outcome": "Arrest made"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.57423,
+          39.186374
+        ],
+        "type": "Point"
+      },
+      "id": "e674cf050fcd7692823a281575cd7874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "May. 6",
+        "Incident": "Theft under $1,500",
+        "Location": "915 Mid Campus Dr., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.581929,
+          39.188319
+        ],
+        "type": "Point"
+      },
+      "id": "e7b5f794d81b82a58aa9490f9867f896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jun. 28",
+        "Incident": "Theft under $1,500 and criminal damage to property under $1,000",
+        "Location": "1620 Denison Ave., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.584098,
+          39.197779
+        ],
+        "type": "Point"
+      },
+      "id": "eb1a04f2a212421cafbf74edc4f56c40"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Aug. 5",
+        "Incident": "Criminal damage to property",
+        "Location": "1800 Denison Ave., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.5835,
+          39.199764
+        ],
+        "type": "Point"
+      },
+      "id": "f5a6d139c0964cfe1d63596f77c878b2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jun. 25",
+        "Incident": "Theft",
+        "Location": "1615 Claflin Rd., Manhattan, KS",
+        "Outcome": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.582156,
+          39.192888
+        ],
+        "type": "Point"
+      },
+      "id": "f99db9fb33146f91d83fbe057989424e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Jun. 16",
+        "Incident": "Warrant arrest",
+        "Location": "1300 Old Claflin Rd., Manhattan, KS",
+        "Outcome": "Arrest made on warrant from Franklin County District Court"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.576913,
+          39.193661
+        ],
+        "type": "Point"
+      },
+      "id": "fb02d21113da7d5768274cb5869b5766"
+    }
+  ],
+  "type": "FeatureCollection"
+}
